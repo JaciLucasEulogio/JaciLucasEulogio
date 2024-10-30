@@ -9,7 +9,6 @@
 - **Email:** [72617519@continental.edu.pe](mailto:72617519@continental.edu.pe)
 - **Phone:** +51 957460025
 - **LinkedIn:** [Jaci Lucas](https://www.linkedin.com/in/jaci-lucas/)
-- **GitHub:** [JaciLucasEulogio](https://github.com/JaciLucasEulogio)
 - **Personal Website:** [PersonalWeb](https://jacilucaseulogio.github.io/PersonalWeb/)
 
 ---
