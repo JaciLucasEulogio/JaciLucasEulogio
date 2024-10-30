@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacilucaseulogio&label=Profile%20views&color=0e75b6&style=flat" alt="jacilucaseulogio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacilucaseulogio" alt="jacilucaseulogio" /></a> </p>
-
 - 🔭 I’m currently working on [ImaXR](https://imaxr.webflow.io/)
 
 - 🌱 I’m currently learning **Python, Data Analysis, and AI**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacilucaseulogio&show_icons=true&locale=en&layout=compact" alt="jacilucaseulogio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacilucaseulogio&show_icons=true&locale=en" alt="jacilucaseulogio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacilucaseulogio&" alt="jacilucaseulogio" /></p>
