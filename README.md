@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacilucaseulogio&label=Profile%20views&color=0e75b6&style=flat" alt="jacilucaseulogio" /> </p>
 
-- 🔭 I’m currently working on [ImaXR](https://imaxr.webflow.io/)
-- 🌱 I’m currently learning **Python, Data Analysis, and AI**
-
 ---
 
 ### Contact Information
@@ -19,20 +16,6 @@
 
 ### Profile
 I am a woman in STEAM with certifications in project management focused on Data Science and Artificial Intelligence. Since the age of 14, I have led communities and managed content, accumulating four years of experience in people leadership. Currently, I represent my field as a sub-delegate.
-
----
-
-### Experience
-
-#### XR Product Designer | ImaXR - Perú
-*October 2024 - Present*
-- Designing interfaces for XR products using Figma, Bezi, and ShapesXR.
-- Creating educational XR content for social media.
-- Conducting market research on XR trends and gathering feedback.
-
-#### Researcher | Universidad Continental
-*August 2024 - Present*
-- Working on the Anemia Recovery Process Prediction System for Children Under 36 Months in the Junín Region using Machine Learning Techniques, soon to be indexed in Web of Science.
 
 ---
 
@@ -91,35 +74,11 @@ I am a woman in STEAM with certifications in project management focused on Data 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </p>
 
-
----
-
-### Education
-**Bachelor's Degree in Software Engineering**  
-*Universidad Continental, 2022 - Present*
-
----
-
-### Additional Information
-- Represented Universidad Continental in the community for 2 years.
-- I believe in combining technology with social responsibility and have a passion for helping others through my work.
-
 ---
 
 ### Projects
 - **[Anemia Recovery Process Prediction System](#)**: Predictive analysis using machine learning techniques.
 - **[Educational XR Content](#)**: Developed content to promote awareness of anemia in children.
-
----
-
-### Testimonials
-> “Jaci is a dedicated and innovative leader in her field.” — **[Name], Position**
-
----
-
-### Fun Fact
-I love reading and spending time with my family in nature! 🌳
-
 
 
 
